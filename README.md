@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **frontend technologies**
 
-- 📫 How to reach me **kgupta@gamil.com**
+- 📫 How to reach me **kgupta7827@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
