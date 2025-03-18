@@ -19,7 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashish00208&show_icons=true&locale=en&layout=compact" alt="kashish00208" /></p>
 
-[![kashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![kashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&locale=en" alt="kashish00208" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish00208&" alt="kashish00208" /></p>
