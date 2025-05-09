@@ -22,5 +22,4 @@
 # 📊 GitHub Stats:
 <p align="center" height="70%" width="70%">
   
- (https://github-readme-streak-stats.herokuapp.com/?user=kashish00208&theme=tokyonight&hide_border=false)
   </p>
