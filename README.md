@@ -20,6 +20,4 @@
 - **Databases**: MongoDB,SQL.
 - **Misc**: Docker, TailwindCSS.
 # 📊 GitHub Stats:
-<p align="center" height="70%" width="70%">
-  
-  </p>
+![](https://github-readme-streak-stats.herokuapp.com/?userkashish00208&theme=radical&hide_border=false)<br/>
