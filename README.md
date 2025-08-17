@@ -10,7 +10,11 @@ I am Kashish from New Delhi, India. I am a Computer Science student and a develo
 
 ### Other Accounts 📫
 
-You can find and get in touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/kashish00208/kashish00208/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/kashish00208) | [<img src="https://raw.githubusercontent.com/kashish00208/kashish00208/master/img/twitter.png" alt="twitter logo" width="34">](https://x.com/404codes) |
-|---|---|---|---|---|---|---|
+- 📫 How to reach me **gkashish083@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kashish00208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish00208" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kashish00208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish00208" height="30" width="40" /></a>
+</p>
