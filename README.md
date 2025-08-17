@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm kashish</h1>
-<h3 align="center">A passionate web developer from India</h3>
+### Hi there 👋
 
+I am Kashish from New Delhi, India. I am a Computer Science student and a developer who enjoys working with Next.js, TypeScript, and Node.js. Currently, I am exploring Generative AI and contributing to open source while building my skills in web development.
 
-- 🌱 I’m currently learning **typeScript**
+-  Pronouns: She/her
+-  Fun fact: My “breaks” usually end up being new side projects.
 
-- 💬 Ask me about **C++ , javaScript**
+[![kashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![kashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-- 📫 How to reach me **gkashish083@gmail.com**
+### Other Accounts 📫
 
-# 💻 Tech Stack:
-- **Languages**: C++, Javascript/TypeScript, HTML5 ,CSS3.
-- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
-- **Databases**: MongoDB,SQL.
-- **Misc**: Docker, TailwindCSS.
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashish00208&theme=radical&hide_border=false)<br/>
+You can find and get in touch with me on these accounts!
+
+| [<img src="https://raw.githubusercontent.com/kashish00208/kashish00208/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/kashish00208) | [<img src="https://raw.githubusercontent.com/kashish00208/kashish00208/master/img/twitter.png" alt="twitter logo" width="34">](https://x.com/404codes) |
+|---|---|---|---|---|---|---|
