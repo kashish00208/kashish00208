@@ -1,9 +1,26 @@
-### Hi there 👋
+# Welcome to My GitHub 👋
 
-I am Kashish from New Delhi, India. I am a Computer Science student and a developer who enjoys working with Next.js, TypeScript, and Node.js. Currently, I am exploring Generative AI and contributing to open source while building my skills in web development.
+Hi there, I'm **Kashish**!  
+I'm a Computer Science student and a developer from **New Delhi, India**.  
+I love building things with **Next.js, TypeScript, and Node.js**.  
 
--  Pronouns: She/her
--  Fun fact: My “breaks” usually end up being new side projects.
+Currently, I'm diving deep into **Generative AI** and contributing to **open-source projects** to sharpen my skills.  
 
-[![kashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![kashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+- **Pronouns:** She/Her  
+- **Fun fact:** My "breaks" often turn into new side projects! 🚀  
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img alt="Kashish's GitHub stats (Dark)" src="https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img alt="Kashish's GitHub stats (Light)" src="https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only" />
+</a>
+</p>
