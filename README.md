@@ -1,5 +1,3 @@
-# Welcome to My GitHub 👋
-
 Hi there, I'm **Kashish**!  
 I'm a Computer Science student and a developer from **New Delhi, India**.  
 I love building things with **Next.js, TypeScript, and Node.js**.  
