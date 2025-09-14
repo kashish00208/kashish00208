@@ -9,8 +9,5 @@ Currently, I'm diving deep into **Generative AI** and contributing to **open-sou
 
  How to reach me **gkashish083@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kashish00208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish00208" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kashish00208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish00208" height="30" width="40" /></a>
-</p>
+[![Kashish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Kashish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
