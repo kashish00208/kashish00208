@@ -10,9 +10,7 @@ Currently, I'm diving deep into **Generative AI** and contributing to **open-sou
 [![Kashish00208's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Kashish00208's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<!-- GitHub Streak -->
-[![GitHub Streak-Dark](https://streak-stats.demolab.com?user=kashish00208&theme=dark&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-Light](https://streak-stats.demolab.com?user=kashish00208&theme=default&hide_border=true#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
 
 
  How to reach me **gkashish083@gmail.com**
