@@ -6,12 +6,5 @@ Currently, I'm diving deep into **Generative AI** and contributing to **open-sou
 
 - **Pronouns:** She/Her  
 - **Fun fact:** My "breaks" often turn into new side projects!   
-<!-- GitHub Stats -->
-[![Kashish00208's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Kashish00208's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kashish00208&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-
-
  How to reach me **gkashish083@gmail.com**
 
