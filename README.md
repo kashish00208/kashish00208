@@ -1,10 +1,5 @@
 Hi there, I'm **Kashish**!  
-I'm a Computer Science student and a developer from **New Delhi, India**.  
-I love building things with **Next.js, TypeScript, and Node.js**.  
+I love building things 
 
-Currently, I'm diving deep into **Generative AI** and contributing to **open-source projects** to sharpen my skills.  
-
-- **Pronouns:** She/Her  
-- **Fun fact:** My "breaks" often turn into new side projects!   
- How to reach me **gkashish083@gmail.com**
+How to reach me **gkashish083@gmail.com**
 
