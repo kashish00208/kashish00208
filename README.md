@@ -2,7 +2,7 @@
 
 * → Built **scaleSocket** — WebSocket server handling 10,000+ concurrent connections. [Link](https://github.com/kashish00208/scaleSocket)
 * → Built **BuilderAI** — turns a natural language prompt into a full-stack app in under 2 seconds. [Link](https://github.com/kashish00208/builder)
-* → Built **TubeSave** ⭐ — YouTube downloader with 100+ active users in month one. [Link](https://github.com/kashish00208/TubeSave)
+* → Built **TubeSave**  — YouTube downloader with 100+ active users in month one. [Link](https://github.com/kashish00208/TubeSave)
 
 ---
 
