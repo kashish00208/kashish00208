@@ -1,3 +1,1 @@
-21, open source dev, shipping things that scale
-
-
+21, I like to build 
